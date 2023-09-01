@@ -3469,3 +3469,8 @@ input, select, textarea {
 			}
 
 		}
+
+.banner{
+	background-color: #bdf2e8;
+	padding:2em;
+}
